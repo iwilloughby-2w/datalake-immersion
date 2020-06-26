@@ -5,6 +5,7 @@ You will need your own AWS account to run the labs yourself.  The costs will be 
 
 ## Recordings from Jun 24-25/2020
 [Day 1 Recording](https://2w-immersion-content.s3.amazonaws.com/GMT20200624-150757_-PLACEHOLD_gallery_1920x1080.mp4)
+
 [Day 2 Recording](https://2w-immersion-content.s3.amazonaws.com/GMT20200625-150219_-PLACEHOLD_gallery_1920x1080.mp4)
 
 
