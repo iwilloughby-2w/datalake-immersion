@@ -3,6 +3,11 @@ Data Lake Immersion Day.  Here you can find the links to the recording and the l
 
 You will need your own AWS account to run the labs yourself.  The costs will be minimal or free depending on how long you run the labs.  Please remember to either terminate your account or make sure you delete all your resources so you will not incur large fees. *you are responsible for terminating your account or resources*
 
+## Recordings from Jun 24-25/2020
+[Day 1 Recording](https://2w-immersion-content.s3.amazonaws.com/GMT20200624-150757_-PLACEHOLD_gallery_1920x1080.mp4)
+[Day 2 Recording](https://2w-immersion-content.s3.amazonaws.com/GMT20200625-150219_-PLACEHOLD_gallery_1920x1080.mp4)
+
+
 ## Lab 1 Information
 
 This lab can be run by itself or skipped.  It is not used for the other labs.
